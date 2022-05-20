@@ -1,10 +1,17 @@
-# Requirements
+# Background
 
-- To ingest and process CSV file with two columns; dining place name, dining hour
-- To create a self service dashboard where one can ask question about the datasets
+# Purpose
 
-# Simple Architecture
+# Guides
 
-- Voila will serve as app running on Binder
-- Use modin / fugusql to query and process DuckDB
-- User can choose to export, init the database as a file
+## Getting Started
+
+## Use Cases
+
+# Interesting facts about the data
+
+# Appendix
+
+## Challenges
+
+## Methodology
