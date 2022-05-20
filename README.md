@@ -1,3 +1,6 @@
+Click here to open the dashboard
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tsoonjin/restaurant_status/main?filepath=RestaurauntTracker.ipynb)
+
 # Background
 
 Given a list of restaurants and the corresponding operating hours, we would like to perform certain queries and identify patteerns
@@ -23,10 +26,10 @@ If required to launch locally, please follow the instructions below
 pip install -r requirements.txt
 ```
 
-### Launch notebook
+### Launch notebook as web app
 
 ```
-jupyter notebook RestaurauntTracker.ipynb
+voila RestaurauntTracker.ipynb --enable_nbextension=True
 ```
 
 ## Use Cases
