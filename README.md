@@ -1,5 +1,4 @@
-Click here to open the dashboard
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tsoonjin/restaurant_status/main?filepath=RestaurauntTracker.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tsoonjin/restaurant_status/HEAD?labpath=RestaurantTracker.ipynb)
 
 # Background
 
